@@ -1,0 +1,15 @@
+.copy-btn {
+    outline: none;
+    background-color: #4285f4;
+    color: white;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+    border: none;
+  }
+  
+  .copy-btn:hover {
+    background-color: #000;
+  }
+
+
+
